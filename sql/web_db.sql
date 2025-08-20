@@ -215,7 +215,25 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`user_id`, `username`, `email`, `password`, `role`, `profile_pic`, `remember_token`, `created_at`, `updated_at`) VALUES
 ('USR00000001', 'admin', 'admin@toylandstore.com', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin', NULL, NULL, '2025-08-02 16:04:16', '2025-08-02 16:04:16'),
-('USR94995839', 'salman_moosa', 'salmaanmoosa498@gmail.com', '$2y$10$mDAihTtzdNvX1kRt8kv7cOQ0SLmpEIrKg2ylRBlvnl7b2VrgiF7/6', 'member', NULL, NULL, '2025-08-02 16:06:19', '2025-08-02 16:06:19');
+('USR94995839', 'salman_moosa', 'salmaanmoosa498@gmail.com', '$2y$10$mDAihTtzdNvX1kRt8kv7cOQ0SLmpEIrKg2ylRBlvnl7b2VrgiF7/6', 'member', NULL, NULL, '2025-08-02 16:06:19', '2025-08-02 16:06:19'),
+('USR39284756', 'nora_james', 'nora.james23@gmail.com', '$2y$10$hS9qweGd98n1G6W3jKsZKeP7jxJ/eknVQmSscEo3t1fM9Bgk4rK7q', 'member', NULL, NULL, '2025-08-03 09:15:44', '2025-08-03 09:15:44'),
+('USR58293017', 'david_chen', 'davidchen88@yahoo.com', '$2y$10$4gkRTJzxj9Hc1PbJZbS7le9xF29sN6op1eH/We7cdCrU7lXoFZ8Me', 'member', NULL, NULL, '2025-08-03 09:17:12', '2025-08-03 09:17:12'),
+('USR73920148', 'amira_khan', 'amira.khan11@hotmail.com', '$2y$10$Vyqk7TbyrXPGG/xnOD89Su8coAvXxz6LQX0Dcf0M6Yw3cS0ElnSGa', 'member', NULL, NULL, '2025-08-03 09:18:55', '2025-08-03 09:18:55'),
+('USR18492730', 'peter_owens', 'peter.owens22@gmail.com', '$2y$10$2F3yjkXjDk8Q1B5uZExlFeYZd8cDY8pZ5e6K4h3xrbpsh8TqC7gT.', 'member', NULL, NULL, '2025-08-03 09:20:36', '2025-08-03 09:20:36'),
+('USR92038471', 'sophia_lee', 'sophia.lee90@gmail.com', '$2y$10$PfQxZ9yV4tEBjQqT5VJkseX9mIuXjC5cU9YbA6zQdX2UuRk5tDkLW', 'member', NULL, NULL, '2025-08-03 09:22:18', '2025-08-03 09:22:18'),
+('USR50381924', 'mohd_faiz', 'faiz.mohd77@yahoo.com', '$2y$10$7GzVpJg02iNpiX5a4MfxiOYfP4F0z2yR5xD3zCcDYeE0G7eC4HJQa', 'member', NULL, NULL, '2025-08-03 09:23:59', '2025-08-03 09:23:59'),
+('USR67591820', 'emily_turner', 'emily.turner12@gmail.com', '$2y$10$dW7GfJTYk1pE6aB7m9mK1OEuK3i7mFQkC6nqC5xZ8Vsq9h2tQ0uVq', 'member', NULL, NULL, '2025-08-03 09:25:44', '2025-08-03 09:25:44'),
+('USR81230947', 'ahmad_zaki', 'ahmad.zaki55@outlook.com', '$2y$10$Bg5XpJmU5uTz3Vn5y6FoGe4l0WbVtWqkE2XzS5oN9Yr8vC9jH7lMK', 'member', NULL, NULL, '2025-08-03 09:27:11', '2025-08-03 09:27:11'),
+('USR10293847', 'lina_wong', 'lina.wong33@gmail.com', '$2y$10$YfG9pJk3VtQ1xZ6rL0vKpe8cE2s9dXh3JpQ8mL4kV1fB0tR6gS2wQ', 'member', NULL, NULL, '2025-08-03 10:05:12', '2025-08-03 10:05:12'),
+('USR56473829', 'omar_salim', 'omar.salim44@yahoo.com', '$2y$10$U7kKfHj5NzP2tX1gC8lWqvO3dL6mJrR9V0sTqX2yE4bN7wR8pC5y', 'member', NULL, NULL, '2025-08-03 10:06:47', '2025-08-03 10:06:47'),
+('USR91827364', 'maya_rashid', 'maya.rashid22@hotmail.com', '$2y$10$D8fHqJt1PlV3xZ6rK9yTje4nQ5uXwR0cS7mLpV2zE1gB3tF5kC8y', 'member', NULL, NULL, '2025-08-03 10:08:31', '2025-08-03 10:08:31'),
+('USR37482910', 'zack_lee', 'zack.lee77@gmail.com', '$2y$10$F3pXvRk9JtL2sZ5nG6qKwe8dV1mNpR4cQ7yXeB5oL0tH3kW8jV9y', 'member', NULL, NULL, '2025-08-03 10:10:05', '2025-08-03 10:10:05'),
+('USR84736291', 'nabila_hassan', 'nabila.hassan88@gmail.com', '$2y$10$H1vQmJk2PtL4xN5rB6sFye9oK3dWqV8cR2zMeA1pT9yL4jV7kC0x', 'member', NULL, NULL, '2025-08-03 10:11:42', '2025-08-03 10:11:42'),
+('USR20394857', 'ryan_tan', 'ryan.tan99@yahoo.com', '$2y$10$J5pXnRk3LtM1vZ8rK2yGwe6dQ0fNpT9cB4xWeE7oH1gK3jV6sR8y', 'member', NULL, NULL, '2025-08-03 10:13:18', '2025-08-03 10:13:18'),
+('USR56473820', 'selena_cho', 'selena.cho11@gmail.com', '$2y$10$K2vQpJk4LtP3xZ9nB7sRje1oC5dVwT2cQ6yMeF3rL0gJ5kV8pS1y', 'member', NULL, NULL, '2025-08-03 10:14:50', '2025-08-03 10:14:50'),
+('USR91827350', 'faridah_ali', 'faridah.ali55@hotmail.com', '$2y$10$L3pXrKk5JtN2vZ4rC8qTje9nF6uWpR1cS5xWeG0oL3tH8kV7jC9y', 'member', NULL, NULL, '2025-08-03 10:16:24', '2025-08-03 10:16:24'),
+('USR37482921', 'kevin_chua', 'kevin.chua66@gmail.com', '$2y$10$M4vQpJk6LtL1xZ2rB9sFje0dK3wVpT4cQ7yXeH5oN1tJ6kV9pC2y', 'member', NULL, NULL, '2025-08-03 10:17:58', '2025-08-03 10:17:58'),
+('USR84736202', 'safiya_mohd', 'safiya.mohd33@yahoo.com', '$2y$10$N5pXrJk7JtM3vZ6rC2yGje8oL1dWpT9cQ0xWeF2pN4tK5jV8sC3y', 'member', NULL, NULL, '2025-08-03 10:19:32', '2025-08-03 10:19:32');
 
 -- --------------------------------------------------------
 
